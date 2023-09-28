@@ -5,7 +5,23 @@ using namespace std;
 
 string imie;
 
-int main(){
+class KalkulatorekTaki
+{
+    public:
+    
+    float Dodawanie(){
+        return 1;
+    }
+    float P_Prostokat(float Bok1, float Bok2){
+        return Bok1 * Bok2;
+    }
+    
+}
+
+
+asdgwsgsaega
+int main()
+{
     cout << "Imie I nazwisko" << endl;
     cin >> imie;
     cout << "Nie podawaj swoich danych osobowych w internecie" << endl;
