@@ -16,10 +16,10 @@ class KalkulatorekTaki
         return Bok1 * Bok2;
     }
     
-}
+};
 
 
-asdgwsgsaega
+
 int main()
 {
     cout << "Imie I nazwisko" << endl;
